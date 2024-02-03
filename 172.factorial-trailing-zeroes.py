@@ -22,6 +22,10 @@ class Solution(object):
             n //= 5
             result += n
         return result
+        #work only for c++ or java
+        # for (i=5; i<=5; i=i*5)
+        #     result = result + (n/i)
+
         
 # @lc code=end
     
